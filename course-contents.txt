@@ -1,0 +1,17 @@
+**1. Introduction to Go: (10 minutes)**
+   - **Overview:** Go, also known as Golang, was developed at Google. It combines the performance of C++ with the readability of Python.
+   - **Environment Setup:** I'll guide you through setting up your Go environment.
+
+**2. Your First Go Program: (15 minutes)**
+   - **Hello World:** We'll write the classic "Hello World" program. This will teach you about Go's syntax and how to run a Go program.
+   - **Understanding Packages:** Learn how Go organizes code and uses packages.
+
+**3. Basic Go Syntax: (20 minutes)**
+   - **Variables and Types:** Learn about Go's type system, and how to declare variables.
+   - **Control Structures:** Introduction to `if`, `for`, and `switch` statements in Go.
+   - **Functions:** Understanding how to write and call functions in Go.
+
+**4. Practical Exercise: (15 minutes)**
+   - **Simple Calculator:** We'll write a basic calculator program that takes user input and performs arithmetic operations. This exercise will help reinforce what you've learned and give you a taste of Go's capabilities.
+
+Remember, Go is all about simplicity and efficiency. Don't worry if you don't grasp everything immediately; practice is key. Ready to start? Let's set up your Go environment!
